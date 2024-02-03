@@ -1,0 +1,8 @@
+ID,Name,Description,Authors,Url,Area
+1,Eye of the day,Whether 'eye of the day' is used for 'sun',Jeremy Collins,,Semantics
+2,Number of classifiers,The number of classifiers used for the nouns in the classifier task,Jeremy Collins,,Syntax
+3,Order of subject and verb,Order of subject and verb,Jeremy Collins,,Syntax
+4,Order of noun and demonstrative,Order of noun and demonstrative,Jeremy Collins,,Syntax
+5,Number of eat verbs,Number of eat verbs,Jeremy Collins,,Semantics
+6,Presence of bull imagery,Whether bull horns are used e.g. in decorating houses or on clothes,Jeremy Collins,,Anthropology
+7,Using Tai numerals under ten,Using Tai numerals under ten,Jeremy Collins,,Lexicon

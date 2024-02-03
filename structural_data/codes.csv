@@ -1,0 +1,23 @@
+ID,Parameter_ID,Value,Name,Description
+1-1,1,1,No eye of the day,The construction 'eye of the day' is not used for 'sun'
+1-2,1,2,Eye of the day,The construction 'eye of the day' is used for 'sun'
+2-10,2,10,10 classifiers,10 classifiers
+2-12,2,12,12 classifiers,12 classifiers
+2-15,2,15,15 classifiers,15 classifiers
+2-22,2,22,22 classifiers,22 classifiers
+2-24,2,24,24 classifiers,24 classifiers
+3-SV,3,SV,Subject-verb,Subject-verb
+3-VS,3,VS,Verb-subject,Verb-subject
+3-SVS,3,SVS,Subject-verb-subject,Subject-verb-subject
+4-1,4,1,Demonstrative-Noun,Demonstrative-Noun
+4-2,4,2,Noun-demonstrative,Noun-demonstrative
+5-1,5,1,1 eat verb,1 eat verb
+5-2,5,2,2 eat verbs,2 eat verbs
+5-3,5,3,3 eat verbs,3 eat verbs
+5-4,5,4,4 eat verbs,4 eat verbs
+5-5,5,5,5 eat verbs,5 eat verbs
+5-6,5,6,6 eat verbs,6 eat verbs
+6-0,6,0,Bull imagery absent,Bull imagery absent
+6-1,6,1,Bull imagery present,Bull imagery present
+7-0,7,0,Does not use Tai numerals under ten,Does not use Tai numerals under ten
+7-1,7,1,Uses Tai numerals under ten,Uses Tai numerals under ten
